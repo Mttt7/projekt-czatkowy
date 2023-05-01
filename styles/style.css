@@ -67,7 +67,7 @@ body {
   align-items: flex-start;
   margin-top: 5%;
   justify-content: center;
-  gap: 20%;
+  gap: 30px;
   width: 70%;
   background-color: lightskyblue;
 }
